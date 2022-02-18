@@ -1,6 +1,5 @@
 # Introduction to the Julia programming language test2
 
-
 Material for the RWTH Julia workshop taking place on 17th and 18th February 2022.
 For more details [check out the course website](https://michael-herbst.com/teaching/2022-rwth-julia-workshop/).
 
